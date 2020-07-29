@@ -1,0 +1,19 @@
+{
+  "name": "@4react/tsconfig",
+  "version": "1.0.0-alpha1",
+  "description": "TypeScript configuration for React modules",
+  "license": "MIT",
+  "repository": "https://github.com/4react/tsconfig",
+  "author": "Matteo Zanoncello",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "config",
+    "configuration",
+    "ts",
+    "tsconfig",
+    "typescript"
+  ]
+}
